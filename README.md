@@ -19,4 +19,5 @@
 - Kiểm tra/validate đầu vào & escape output (XSS)
 - Session với cookie flag (httponly)
 
-## 📂 Cấu trúc thư mục (gợi ý)
+Email: tranbienminhtam@gmail.com
+ • GitHub: https://github.com/minhtambull
